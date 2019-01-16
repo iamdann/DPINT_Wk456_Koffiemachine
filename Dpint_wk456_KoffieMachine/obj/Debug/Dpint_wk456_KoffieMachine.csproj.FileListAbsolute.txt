@@ -1,0 +1,130 @@
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe.config
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\App.g.cs
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.cache
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.lref
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\App.baml
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.baml
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.g.resources
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.Properties.Resources.resources
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csproj.GenerateResource.Cache
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe.config
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\App.g.cs
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.cache
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.lref
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\App.baml
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.baml
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.g.resources
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.Properties.Resources.resources
+C:\Users\Jim\Dropbox\dpint 456 working\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csproj.GenerateResource.Cache
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe.config
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csprojResolveAssemblyReference.cache
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\App.g.cs
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.cache
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.lref
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\App.baml
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.baml
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.g.resources
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.Properties.Resources.resources
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csproj.GenerateResource.Cache
+A:\Program Files (x86)\desktop dump\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe.config
+A:\Program Files (x86)\desktop dump\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.exe
+A:\Program Files (x86)\desktop dump\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe.config
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csprojAssemblyReference.cache
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.g.cs
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\App.g.cs
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.cache
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine_MarkupCompile.lref
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\App.baml
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\MainWindow.baml
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.g.resources
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.Properties.Resources.resources
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csproj.GenerateResource.cache
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csproj.CoreCompileInputs.cache
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.csproj.CopyComplete
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.exe
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\obj\Debug\Dpint_wk456_KoffieMachine.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\Dpint_wk456_KoffieMachine\bin\Debug\TeaAndChocoLibrary.dll

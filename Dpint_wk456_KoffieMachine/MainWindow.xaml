@@ -8,7 +8,7 @@
         xmlns:cmd="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.Platform"
         xmlns:helpers="clr-namespace:Dpint_wk456_KoffieMachine.Helpers"
         mc:Ignorable="d"
-        Title="MainWindow" Height="620" Width="900"
+        Title="MainWindow" Height="746.118" Width="900"
         DataContext="{Binding Main, Source={StaticResource Locator }}">
     <Window.Resources>
         <helpers:EnumToBooleanConverter x:Key="EnumToBool"/>
@@ -118,24 +118,46 @@
             </StackPanel>
             <Separator />
             <Label Content="Chocolate" FontWeight="Bold"/>
-            <StackPanel Orientation="Horizontal" Name="ChocolatePanel" HorizontalAlignment="Center" Margin="5">
+            <StackPanel Orientation="Horizontal" Name="ChocolatePanel" HorizontalAlignment="Center" Margin="38,5" Width="360">
                 <Button Command="{Binding DrinkCommand}" CommandParameter="Chocolate" Style="{StaticResource DrinkButton}">
-                    <TextBlock>Chocolate</TextBlock>
+                    <TextBlock><Run Text="Chocolate"/></TextBlock>
                 </Button>
                 <Button Command="{Binding DrinkCommand}" CommandParameter="Chocolate Deluxe" Style="{StaticResource DrinkButton}">
-                    <TextBlock>Chocolate Deluxe</TextBlock>
+                    <TextBlock><Run Text="Chocolate Deluxe"/></TextBlock>
+                </Button>
+                <Button Command="{Binding DrinkCommand}" CommandParameter="CoffeeChoc" Style="{StaticResource DrinkButton}">
+                    <TextBlock Text="CoffeeChoc"/>
                 </Button>
             </StackPanel>
             <Separator />
             <Label Content="Tea" FontWeight="Bold"/>
-            <StackPanel Orientation="Horizontal" Name="TeaPanel" HorizontalAlignment="Center" Margin="5">
+            <StackPanel Orientation="Horizontal" x:Name="TeaPanel" HorizontalAlignment="Center" Margin="38,5,80,5" Height="82" Width="318">
                 <Button Command="{Binding DrinkCommand}" CommandParameter="Tea" Style="{StaticResource DrinkButton}">
-                    <TextBlock>Tea</TextBlock>
+                    <TextBlock><Run Text="Tea"/></TextBlock>
                 </Button>
                 <Button Command="{Binding DrinkWithSugarCommand}" CommandParameter="Tea" Style="{StaticResource DrinkButton}">
-                    <TextBlock>Tea + sugar</TextBlock>
+                    <TextBlock><Run Text="Tea + sugar"/></TextBlock>
                 </Button>
-                <TextBlock TextWrapping="WrapWithOverflow" Width="250">How to choose your teablend? //TODO: Make this work!</TextBlock>
+                <StackPanel Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Center">
+                    <Label FontWeight="Bold" Content="Blend"/>
+                    <RadioButton GroupName="Strength" IsChecked="{Binding TeaBlend, ConverterParameter=GreenTea, Converter={StaticResource EnumToBool}}" Content="Green Tea"/>
+                    <RadioButton GroupName="Strength" IsChecked="{Binding TeaBlend, ConverterParameter=LemonTea, Converter={StaticResource EnumToBool}}" Content="Lemon Tea"/>
+                    <RadioButton GroupName="Strength" IsChecked="{Binding TeaBlend, ConverterParameter=FruityIcedTea, Converter={StaticResource EnumToBool}}" Content="Fruity Iced Tea"/>
+                </StackPanel>
+            </StackPanel>
+            <Separator />
+            <Label Content="Alcoholic" FontWeight="Bold" HorizontalAlignment="Right" Width="436"/>
+            <StackPanel Orientation="Horizontal" x:Name="TeaPanel_Copy" HorizontalAlignment="Center" Margin="38,5,80,5" Height="65" Width="318">
+                <Button Command="{Binding DrinkCommand}" CommandParameter="IrishCoffee" Style="{StaticResource DrinkButton}">
+                    <TextBlock RenderTransformOrigin="0.5,0.5" Width="57" Text="Irish Coffee"/>
+                </Button>
+                <Button Command="{Binding DrinkWithSugarCommand}" CommandParameter="SpanishCoffee" Style="{StaticResource DrinkButton}">
+                    <TextBlock><Run Text="Spanish Coffee"/></TextBlock>
+                </Button>
+                <StackPanel Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Center"/>
+                <Button Command="{Binding DrinkWithSugarCommand}" CommandParameter="ItalianCoffee" Style="{StaticResource DrinkButton}" Margin="5,5,5,0">
+                    <TextBlock><Run Text="Italian Coffee"/></TextBlock>
+                </Button>
             </StackPanel>
         </StackPanel>
         <StackPanel Grid.Column="2" Orientation="Vertical" Margin="5" Name="Payment">

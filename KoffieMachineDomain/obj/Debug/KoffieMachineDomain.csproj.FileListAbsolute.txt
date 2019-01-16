@@ -1,0 +1,22 @@
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.dll
+C:\Users\Jim\Desktop\DPINT_Wk456_Koffiemachine-master\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Jim\Dropbox\dpint 456 working\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim\Dropbox\dpint 456 working\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.dll
+C:\Users\Jim\Dropbox\dpint 456 working\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csprojResolveAssemblyReference.cache
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.dll
+C:\Users\Jim Laptop\Desktop\coffeemachine - jewmlind\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.dll
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\bin\Debug\KoffieMachineDomain.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csprojAssemblyReference.cache
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csproj.CoreCompileInputs.cache
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.dll
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.pdb
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\bin\Debug\TeaAndChocoLibrary.dll
+C:\Users\Daan\Documents\c#\coffeemachine\KoffieMachineDomain\obj\Debug\KoffieMachineDomain.csproj.CopyComplete
